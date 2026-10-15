@@ -1,0 +1,30 @@
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Chrome Drivers & Binaries (Large Files ~18MB+)
+chromedriver.exe
+chromedriver
+*.chromedriver
+chromedriver-win64/
+THIRD_PARTY_NOTICES.chromedriver
+LICENSE.chromedriver
+
+# IDE & Editor Specific Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+
+# Logs & Temporary Files
+*.log
+*.tmp

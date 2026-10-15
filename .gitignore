@@ -1,0 +1,22 @@
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*.class
+*.pyc
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Chrome Drivers & Binaries
+chromedriver.exe
+chromedriver
+*.chromedriver
+chromedriver-win64/
+THIRD_PARTY_NOTICES.chromedriver
+LICENSE.chromedriver
+
+# IDE
+.vscode/
+.idea/
